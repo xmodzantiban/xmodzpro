@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made by ASAP"];
+const statusMessages = ["ASAP <a:HHHHHHHHHHH:859757874314084402> "];
 
 
 let currentIndex = 0;
