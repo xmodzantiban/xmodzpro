@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["ASAP <a:HHHHHHHHHHH:859757874314084402> "];
+const statusMessages = ["Made by XMODZ"];
 
 
 let currentIndex = 0;
